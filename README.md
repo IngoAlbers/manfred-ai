@@ -14,7 +14,9 @@ Getting Started
 ============
 
 `npm install -g cordova ionic`
+
 `ionic platform add android`
+
 `ionic build android`
 
 Contributing
